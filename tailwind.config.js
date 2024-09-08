@@ -3,6 +3,9 @@ export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
+      backgroundImage: {
+        olaiChuvadi: "url('./src/assets/OlaiChuvadi.jpg')",
+      },
       spacing: {
         108: "27rem",
         120: "30rem",
