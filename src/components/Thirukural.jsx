@@ -59,7 +59,7 @@ export const Thirukural = () => {
   return (
     <div className="border w-180 min-h-96 text-center px-3 my-40 rounded-xl bg-white">
       {/* Heading */}
-      <h1 className="font-bold text-2xl my-3">இன்றைய திருக்குறள்</h1>
+      <h1 className="font-bold text-2xl my-3">வள்ளுவரின் குறள்</h1>
 
       {/* Inputs and Button Fields */}
       <div className="flex items-center justify-between my-5">
